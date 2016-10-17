@@ -1,0 +1,9 @@
+.caja {
+ width: 890px;
+ margin: 500 left;
+}
+
+.body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+}
