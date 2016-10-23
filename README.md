@@ -1,7 +1,8 @@
 # sistemasOperativos2
 Proyecto#2 de Sistemas Operativos 2
 
-Luis Daniel Elvir Laínez 20131005647
+Luis Daniel Elvir Laínez 20131005647 Elaborado junto a 
+Emerson Edilberto Duron 20121001429
 Sistemas Operativos 2
 
 CloudMessages Es una aplicación que permite mensajear globalmente con las personas que se registran en la página. 
